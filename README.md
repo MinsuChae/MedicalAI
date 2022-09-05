@@ -17,7 +17,7 @@
 
 # Notice
 This repository is not software such as source code.  
-It is operated for study.  
+It is operated for class.  
 Contents support only the Korean language.
 
 # Original dataset source

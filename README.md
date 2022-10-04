@@ -13,7 +13,7 @@
 - https://www.kaggle.com/datasets/andrewmvd/medical-mnist
 - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-- https://www.kaggle.com/datasets/houcembenmansour/predict-diabetes-based-on-diagnostic-measures
+- https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
 
 # Notice
 This repository is not software such as source code.  
@@ -30,4 +30,4 @@ Contents support only the Korean language.
 - https://www.kaggle.com/datasets/andrewmvd/medical-mnist
 - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-- https://www.kaggle.com/datasets/houcembenmansour/predict-diabetes-based-on-diagnostic-measures
+- https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams
